@@ -1,0 +1,27 @@
+body{ 
+background-color: black;
+color: antiquewhite;
+margin: 0px;
+}
+
+header{ 
+    border-bottom: double 4px rgb(10, 167, 167);
+
+}
+h1{
+    font-size: 30px;
+
+}
+P{
+    font-size: 20px;
+}
+section{
+    background-color: rgb(144, 53, 181);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-self: center;
+}
+.chamada-texto{
+    
+}
